@@ -1,0 +1,45 @@
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\appsettings.Development.json
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\appsettings.json
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\User Authentication API.staticwebassets.endpoints.json
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\User Authentication API.exe
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\User Authentication API.deps.json
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\User Authentication API.runtimeconfig.json
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\User Authentication API.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\User Authentication API.pdb
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BACKEND\User Authentication API\User Authentication API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.csproj.AssemblyReference.cache
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.AssemblyInfoInputs.cache
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.AssemblyInfo.cs
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.csproj.CoreCompileInputs.cache
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.MvcApplicationPartsAssemblyInfo.cs
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.MvcApplicationPartsAssemblyInfo.cache
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\scopedcss\bundle\User Authentication API.styles.css
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets.build.json
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets.development.json
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets\msbuild.User Authentication API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets\msbuild.User Authentication API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets\msbuild.build.User Authentication API.props
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.User Authentication API.props
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.User Authentication API.props
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Aut.C270B9ED.Up2Date
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.dll
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\refint\User Authentication API.dll
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.pdb
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\User Authentication API.genruntimeconfig.cache
+D:\BACKEND\User Authentication API\User Authentication API\obj\Debug\net8.0\ref\User Authentication API.dll
